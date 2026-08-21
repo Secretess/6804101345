@@ -1,0 +1,16 @@
+*   [33mb8bbdc0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Merge with Japanese-language--345
+[31m|[m[32m\[m  
+[31m|[m * [33mecb4c20[m[33m ([m[1;31morigin/Japanese-language[m[33m, [m[1;32mJapanese-language[m[33m)[m v.6-Button with Japanese language-345
+* [32m|[m   [33m49310be[m v.5-Accept with Chinese language-345
+[33m|[m[34m\[m [32m\[m  
+[33m|[m * [32m|[m [33m7466640[m[33m ([m[1;31morigin/Chinese-language[m[33m, [m[1;32mChinese-language[m[33m)[m v.5-Accept with Chinese language-345
+[33m|[m [32m|[m[32m/[m  
+* [32m|[m   [33m20ac727[m Merge with Thai-language--345
+[32m|[m[36m\[m [32m\[m  
+[32m|[m [36m|[m[32m/[m  
+[32m|[m[32m/[m[36m|[m   
+[32m|[m * [33m1bea5b9[m[33m ([m[1;31morigin/Thai-language[m[33m, [m[1;32mThai-language[m[33m)[m v.4-Label with Thai language-345
+[32m|[m[32m/[m  
+* [33m9f5bfa7[m v.3-Script setup-345
+* [33m67440d0[m v.2-Template-345
+* [33m1f1cc1e[m v.1-Init project-345
